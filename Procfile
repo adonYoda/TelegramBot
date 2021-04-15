@@ -1,1 +1,1 @@
-worker: sh target/bin/TelegramBot
+worker: java -jar target/path-to-jar
