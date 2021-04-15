@@ -1,1 +1,1 @@
-worker: java -jar target/path-to-jar
+worker: java -jar target/TelegramBot-1.0-SNAPSHOT.jar
