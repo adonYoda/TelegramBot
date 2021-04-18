@@ -18,7 +18,7 @@
                 <programs>
                     <program>
                         <mainClass>bot.BotApplication</mainClass>
-                        <name>workerBot</name>
+                        <name>weatherBot</name>
                     </program>
                 </programs>
             </configuration>
